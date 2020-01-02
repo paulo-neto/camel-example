@@ -1,2 +1,2 @@
-# sparksql-java
-Repositório para implementação de exemplo utilizando Apache Spark SQL 
+# camel-example
+Repositório para implementação de exemplo utilizando Apache Camel
