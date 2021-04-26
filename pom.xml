@@ -17,7 +17,7 @@
         <camel-version>2.16.0</camel-version>
 
         <lombok.version>1.18.4</lombok.version>
-        <commons.io.version>2.6</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <commons.lang3.version>3.9</commons.lang3.version>
         <commons.beanutils.version>1.9.3</commons.beanutils.version>
     </properties>
